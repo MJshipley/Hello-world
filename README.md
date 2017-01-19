@@ -1,2 +1,3 @@
 # Hello-world
-Current Projects kept here
+
+Hi, my name is Michael
